@@ -11,24 +11,6 @@ Currently learning AI-powered Business Analysis, APIs, and Prompt Engineering.
 
 ## 🛠️ Skills
 
-### 📊 Data Analytics
-- SQL (MySQL)
-- Microsoft Excel
-- Power BI
-- Power Query
-- DAX
-- Data Cleaning
-- Data Visualization
-
-### 📋 Business Analysis
-- Business Requirements Document (BRD)
-- Functional Requirements Document (FRD)
-- User Stories
-- Wireframing
-- Agile Methodology
-- Jira
 
 
----
-
-⭐ Thanks for visiting my profile!
+⭐Let’s connect, learn, and grow together, Thanks for visiting my profile!
