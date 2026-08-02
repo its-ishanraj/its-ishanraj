@@ -18,6 +18,8 @@ Currently learning AI-powered Business Analysis, APIs, and Prompt Engineering.
 ![DAX](https://img.shields.io/badge/DAX-7B1FA2?style=plastic)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=plastic&logo=confluence&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-F58220?style=plastic&logo=lucid&logoColor=white)
 
 
 
