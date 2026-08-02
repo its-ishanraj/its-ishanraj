@@ -10,7 +10,6 @@ Currently learning AI-powered Business Analysis, APIs, and Prompt Engineering.
 
 ---
 ## 🛠️ Tech Stack
-
 ![MySQL](https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoftexcel&logoColor=white)
@@ -21,4 +20,5 @@ Currently learning AI-powered Business Analysis, APIs, and Prompt Engineering.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-F58220?style=plastic&logo=lucid&logoColor=white)
 ---
+
 ⭐Let’s connect, learn, and grow together, Thanks for visiting my profile!
